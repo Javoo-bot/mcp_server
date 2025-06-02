@@ -1,0 +1,5 @@
+mcp[cli]>=1.2.0
+httpx
+pandas
+scikit-learn
+matplotlib
