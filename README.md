@@ -3,6 +3,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/e0afd2e0-4ad2-4d0b-a1a3-16a68bc11ec1
+
+
 ### 💼 **What This System Does**
 This project creates an intelligent assistant that automatically monitors your company's data and alerts you when something unusual happens - before it becomes a costly problem.
 
